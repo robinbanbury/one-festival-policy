@@ -10,8 +10,6 @@ The app does use third party services that may collect information used to ident
 
 SoundCloud privacy policy: https://soundcloud.com/pages/privacy
 
-Songkick privacy policy: https://www.songkick.com/info/privacy
-
 **Log Data**
 
 I want to inform you that whenever you use OneFestival, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing OneFestival, the time and date of your use of OneFestival, and other statistics.
