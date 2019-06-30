@@ -1,0 +1,5 @@
+Privacy-related Android permissions requested by OneFestival
+
+READ PHONE STATE
+
+This allows read only access to phone state, including the phone number of the device, current cellular network information, the status of any ongoing calls, and a list of any phone accounts registered on the device.
